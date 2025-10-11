@@ -14,7 +14,7 @@
 
 ### - I'm 𝓟𝓪𝓻𝓪𝓼𝓽𝓾𝓼 💫 - A 22 year old Backend Developer | Systems Engineer & Integration |  Machine Learning Enthusiast from 🇳🇦.
 
-<img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/23/b6/77/23b677369041b2c97874a5f668e22f33.gif">
+<img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
