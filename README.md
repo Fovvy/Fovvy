@@ -19,12 +19,12 @@ A 22 year old Backend Developer | Systems Engineer & Integration |  Machine Lear
 
 ### - Loves :
 - 🌱 Plants & Nature
-- 🎹 Playing the piano & violin
+- 🎹 Playing the Piano & Violin
 
 ### - Hobbies : 
 - ⭐ Hyprland & KDE ricing
 - ⭐ Open-Source Contributing
-- ⭐ Front-end Creative
+- ⭐ Front-end / GUI Creative
 - ⭐ Playing osu!
 
 </br>
