@@ -48,9 +48,6 @@ I enjoy building my own tools and systems - crafting software that fits my workf
     <a href="https://www.linkedin.com/in/parastus-n-244882279/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="40" height="40"/>
     </a>
-    <a href="https://www.credly.com/users/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="40" height="40"/>
-    </a>
 </div>
 
 
