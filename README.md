@@ -10,7 +10,7 @@
 </br>
 
 
-# About ME 💬 :
+# 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~
 
 ### - I'm Parastus 💫, 22 years old - Backend Developer | Systems Engineer & Integration |  Machine Learning Enthusiast from 🇳🇦.
 
