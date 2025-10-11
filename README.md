@@ -1,39 +1,39 @@
 <div align="center">
 
-<!-- Optional: swap with a custom cyber GIF or SVG -->
-<img src="https://raw.githubusercontent.com/Fovvy/Fovvy/main/assets/radar.gif" alt="Radar sweep" width="120"/>
+<img src="https://raw.githubusercontent.com/Fovvy/Fovvy/main/assets/aurora-grid.png" alt="Aurora grid banner" width="100%" />
 
 <pre>
- ███╗   ██╗██╗   ██╗████████╗      ╔═╗┬ ┬┌┬┐  ┌─┐┌─┐┌─┐┬┌┬┐┌─┐┌┬┐
- ████╗  ██║╚██╗ ██╔╝╚══██╔══╝      ╠═╝│ │ │   │  │ │├─┘│ │ ├┤  │
- ██╔██╗ ██║ ╚████╔╝    ██║         ╩  └─┘ ┴   └─┘└─┘┴  ┴ ┴ └─┘ ┴
- ██║╚██╗██║  ╚██╔╝     ██║      backend · systems · security · resilience
- ██║ ╚████║   ██║      ██║
- ╚═╝  ╚═══╝   ╚═╝      ╚═╝
+🛰️  ppppp   aaaaa  rrrrr   aaaaa  sssss  ttttt  u   u  sssss  🛰️
+🛡️  p   pp  a   a  r   r  a   a  s        t    u   u  s      🛡️
+⚙️  ppppp   aaaaa  rrrrr   aaaaa   ssss    t    u   u   ssss  ⚙️
+🌌  p       a   a  r  r    a   a      s    t    u   u      s  🌌
+🧬 p       a   a  r   r   a   a  sssss    t     uuu   sssss   🧬
 </pre>
 
-<h3><code>$ whoami && uptime</code></h3>
-<p>systems engineer · backend specialist · defender of quiet, hardened infra</p>
+<h3>systems engineer · backend dev · security artisan</h3>
 
-<a href="https://www.linkedin.com/in/ust-~">
-  <img src="https://img.shields.io/badge/linked_in-signal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+<a href="https://www.linkedin.com/in/parastus">
+  <img src="https://img.shields.io/badge/linked_in-sentry-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:ust~@proton.me">
-  <img src="https://img.shields.io/badge/contact-protonmail-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email badge"/>
+<a href="mailto:parastus@proton.me">
+  <img src="https://img.shields.io/badge/encrypted_contact-proton-8b5cf6?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
 </a>
 <a href="https://gist.github.com/Fovvy">
-  <img src="https://img.shields.io/badge/notes-gists-00ff88?style=for-the-badge&logo=github" alt="Gists badge"/>
+  <img src="https://img.shields.io/badge/field%20notes-gists-10b981?style=for-the-badge&logo=github" alt="Gists"/>
+</a>
+<a href="https://parastus.dev">
+  <img src="https://img.shields.io/badge/portfolio-sic_mundus-22d3ee?style=for-the-badge&logo=vercel" alt="Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-## Signal Beacon
+## 🌐 Signal Snapshot
 ```json
 {
+  "callsign": "parastus",
   "timezone": "CET",
-  "stack_focus": ["Go", "TypeScript", "Node.js", "PostgreSQL", "Supabase"],
-  "pillars": ["distributed systems", "observability", "secure-by-default APIs"],
-  "credo": "ships only when threat-modeled"
+  "focus": ["distributed systems", "backend architectures", "threat response"],
+  "ethos": "ship fast, harden faster"
 }
