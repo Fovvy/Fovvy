@@ -16,15 +16,15 @@
 
 <img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+### - Loves :
+- 🌱 Plants & Nature
+- 🎹 Playing the piano & violin
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ⭐ Hyprland & KDE ricing
+- ⭐ Open-Source Contributing
+- ⭐ Reading Light Novels
+- ⭐ Badminton (Neighbourhood Professional XD)
 
 </br>
 </br>
