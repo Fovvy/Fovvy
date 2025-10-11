@@ -19,14 +19,14 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 
 ### - Loves :
 - 🌱 Plants & Nature
-- 🎹 Playing the Piano & Violin
+- 🎹 Playing the Piano & Violin (& osu! occasionally)
 - 🐸 Watching Anime
 
 ### - Hobbies : 
 - ⭐ Hyprland & KDE ricing
 - ⭐ Open-Source Contributing
 - ⭐ Front-end / GUI Artist
-- ⭐ Playing osu!
+- ⭐ Building reusable MCP servers
 
 
 
