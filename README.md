@@ -3,8 +3,8 @@
 <br>
 <div align="left">
 
- <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/18/e2/ad/18e2ad83b882cee8be192754e245bb9e.gif">
+ <div align="left">
+<img hight="150" width="300" alt="GIF" align="center" src="https://i.pinimg.com/originals/18/e2/ad/18e2ad83b882cee8be192754e245bb9e.gif">
 </div>
 
 </br>
