@@ -33,6 +33,7 @@ A 22 year old Backend Developer | Systems Engineer & Integration |  Machine Lear
 
 
 # 𝓜𝓪𝓲𝓷 𝓢𝓴𝓲𝓵𝓵𝓼 🛠 ~
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 </br>
 
 <p align="center">
