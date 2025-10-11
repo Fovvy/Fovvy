@@ -12,7 +12,7 @@
 
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~
 
-### - I'm ℙ𝕒𝕣𝕒𝕤𝕥𝕦𝕤 💫, 22 years old - Backend Developer | Systems Engineer & Integration |  Machine Learning Enthusiast from 🇳🇦.
+### - I'm 𝙿𝚊𝚛𝚊𝚜𝚝𝚞𝚜 💫 - A 22 year old Backend Developer | Systems Engineer & Integration |  Machine Learning Enthusiast from 🇳🇦.
 
 <img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/23/b6/77/23b677369041b2c97874a5f668e22f33.gif">
 
