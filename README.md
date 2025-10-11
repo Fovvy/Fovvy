@@ -2,7 +2,8 @@
 <h1 align="center">~ 𝓚𝓸𝓷𝓲𝓬𝓱𝓲𝔀𝓪! 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
 <div align="center">
-<div align="center">
+
+ <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
@@ -13,7 +14,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm parastus, 22 years old - Backend Developer | Systems Engineer & Integration |  Machine Learning Enthusiast from 🇳🇦.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
