@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Fovvy/Fovvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Optional: swap with a custom cyber GIF or SVG -->
+<img src="https://raw.githubusercontent.com/Fovvy/Fovvy/main/assets/radar.gif" alt="Radar sweep" width="120"/>
 
-Here are some ideas to get you started:
+<pre>
+ ███╗   ██╗██╗   ██╗████████╗      ╔═╗┬ ┬┌┬┐  ┌─┐┌─┐┌─┐┬┌┬┐┌─┐┌┬┐
+ ████╗  ██║╚██╗ ██╔╝╚══██╔══╝      ╠═╝│ │ │   │  │ │├─┘│ │ ├┤  │
+ ██╔██╗ ██║ ╚████╔╝    ██║         ╩  └─┘ ┴   └─┘└─┘┴  ┴ ┴ └─┘ ┴
+ ██║╚██╗██║  ╚██╔╝     ██║      backend · systems · security · resilience
+ ██║ ╚████║   ██║      ██║
+ ╚═╝  ╚═══╝   ╚═╝      ╚═╝
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><code>$ whoami && uptime</code></h3>
+<p>systems engineer · backend specialist · defender of quiet, hardened infra</p>
+
+<a href="https://www.linkedin.com/in/ust-~">
+  <img src="https://img.shields.io/badge/linked_in-signal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+</a>
+<a href="mailto:ust~@proton.me">
+  <img src="https://img.shields.io/badge/contact-protonmail-purple?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email badge"/>
+</a>
+<a href="https://gist.github.com/Fovvy">
+  <img src="https://img.shields.io/badge/notes-gists-00ff88?style=for-the-badge&logo=github" alt="Gists badge"/>
+</a>
+
+</div>
+
+---
+
+## Signal Beacon
+```json
+{
+  "timezone": "CET",
+  "stack_focus": ["Go", "TypeScript", "Node.js", "PostgreSQL", "Supabase"],
+  "pillars": ["distributed systems", "observability", "secure-by-default APIs"],
+  "credo": "ships only when threat-modeled"
+}
