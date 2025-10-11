@@ -20,6 +20,7 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 ### - Loves :
 - 🌱 Plants & Nature
 - 🎹 Playing the Piano & Violin
+- 🐸 Watching Anime
 
 ### - Hobbies : 
 - ⭐ Hyprland & KDE ricing
