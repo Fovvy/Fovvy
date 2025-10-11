@@ -24,7 +24,7 @@ A 22 year old Backend Developer | Systems Engineer & Integration |  Machine Lear
 ### - Hobbies : 
 - ⭐ Hyprland & KDE ricing
 - ⭐ Open-Source Contributing
-- ⭐ Front-end / GUI Creative
+- ⭐ Front-end / GUI Artist
 - ⭐ Playing osu!
 
 </br>
