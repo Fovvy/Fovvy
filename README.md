@@ -1,39 +1,85 @@
+# Konichiwa 👋
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Fovvy/Fovvy/main/assets/aurora-grid.png" alt="Aurora grid banner" width="100%" />
-
-<pre>
-🛰️  ppppp   aaaaa  rrrrr   aaaaa  sssss  ttttt  u   u  sssss  🛰️
-🛡️  p   pp  a   a  r   r  a   a  s        t    u   u  s      🛡️
-⚙️  ppppp   aaaaa  rrrrr   aaaaa   ssss    t    u   u   ssss  ⚙️
-🌌  p       a   a  r  r    a   a      s    t    u   u      s  🌌
-🧬 p       a   a  r   r   a   a  sssss    t     uuu   sssss   🧬
-</pre>
-
-<h3>systems engineer · backend dev · security artisan</h3>
-
-<a href="https://www.linkedin.com/in/parastus">
-  <img src="https://img.shields.io/badge/linked_in-sentry-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:parastus@proton.me">
-  <img src="https://img.shields.io/badge/encrypted_contact-proton-8b5cf6?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
-</a>
-<a href="https://gist.github.com/Fovvy">
-  <img src="https://img.shields.io/badge/field%20notes-gists-10b981?style=for-the-badge&logo=github" alt="Gists"/>
-</a>
-<a href="https://parastus.dev">
-  <img src="https://img.shields.io/badge/portfolio-sic_mundus-22d3ee?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-</a>
-
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
----
+</br>
+</br>
+</br>
 
-## 🌐 Signal Snapshot
-```json
-{
-  "callsign": "parastus",
-  "timezone": "CET",
-  "focus": ["distributed systems", "backend architectures", "threat response"],
-  "ethos": "ship fast, harden faster"
-}
+
+# About ME 💬 :
+
+### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
