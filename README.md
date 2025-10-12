@@ -48,7 +48,7 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 most used social things ^~^</p>
  <div align="center">
  
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="200px">
   </div>
 <br>
 <p align="center" style="display:flex;justify-content:center;gap:0.5rem;">
