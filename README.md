@@ -80,7 +80,7 @@ most used social things ^~^</p>
 
 
 
-<h2 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
+<h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h1>
 <p align="center">
 <img src="https://66.media.tumblr.com/dfb3162734ff672469a4ebb4409526f8/tumblr_n2232bnlHr1qj0e17o1_500.gif" align="center" width="373.5px" height="250px">
 
