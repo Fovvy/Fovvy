@@ -44,8 +44,8 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 
 
 # 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮! ~
- <p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
+ <p align="center">Here are some of my <br>
+most used social things ^~^ xoxox</p>
  <div align="center">
  
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
