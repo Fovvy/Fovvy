@@ -83,7 +83,7 @@ most used social things ^~^</p>
   <a href="https://github.com/fovvy">
     <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=fovvy&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a>
-
+</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
