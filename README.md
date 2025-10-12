@@ -48,7 +48,6 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 most used social things ^~^</p>
  <div align="center">
  
-<img src="https://66.media.tumblr.com/dfb3162734ff672469a4ebb4409526f8/tumblr_n2232bnlHr1qj0e17o1_500.gif" align="right" width="373.5px" height="190px">
   </div>
 <br>
 <p align="center" style="display:flex;justify-content:center;gap:0.5rem;">
@@ -84,9 +83,8 @@ most used social things ^~^</p>
 
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <p align="center">
-  <a href="https://github.com/fovvy">
-    <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=fovvy&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a>
+<img src="https://66.media.tumblr.com/dfb3162734ff672469a4ebb4409526f8/tumblr_n2232bnlHr1qj0e17o1_500.gif" align="right" width="373.5px" height="190px">
+
 </p>
 <hr>
 </div>
