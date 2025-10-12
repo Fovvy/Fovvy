@@ -50,7 +50,7 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 <br>
 <p align="center">Here are some of my <br>
 most used social things >~< </p>
-<p align="center"><a href="https://twitter.com/Miellabun" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/Miellabun" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"/></a></p>
 </div>
 
 
