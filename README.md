@@ -58,7 +58,7 @@ most used social things ^~^</p>
   >
     <img
       src="https://img.shields.io/badge/parastus%20n-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn: parastus n"
+      alt="LinkedIn: parastus LinkedIn"
     />
   </a>
   <a
