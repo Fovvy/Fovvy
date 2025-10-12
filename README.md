@@ -44,10 +44,10 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 
 
 # 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮! ~
-
- <div align="center">
-  <p align="center">Hewe awe some of my <br>
+ <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
+ <div align="center">
+ 
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
