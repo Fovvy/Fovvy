@@ -51,21 +51,30 @@ most used s-s-sociaw things >~< xoxox</p>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/parastus-n-244882279/" target="_blank" rel="noopener noreferrer">
+<p align="center" style="display:flex;justify-content:center;gap:0.5rem;">
+  <a
+    href="https://www.linkedin.com/in/parastus-n-244882279/"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration:none;"
+  >
     <img
       src="https://img.shields.io/badge/parastus%20n-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn: parastus n"
     />
   </a>
-  <a href="https://discord.com/users/803397532302311424" target="_blank" rel="noopener noreferrer">
+  <a
+    href="https://discord.com/users/803397532302311424"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="text-decoration:none;"
+  >
     <img
       src="https://img.shields.io/badge/parastus%20%7C%20discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord: parastus"
     />
   </a>
 </p>
-</div>
 
 
 
