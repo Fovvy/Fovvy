@@ -26,7 +26,7 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 - ⭐ Hyprland & KDE ricing
 - ⭐ Open-Source Contributing
 - ⭐ Front-end / GUI Artist
-- ⭐ 
+- ⭐ Building custom linux tools
 
 
 </br>
