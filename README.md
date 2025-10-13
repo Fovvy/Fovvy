@@ -26,15 +26,14 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 - ⭐ Hyprland & KDE ricing
 - ⭐ Open-Source Contributing
 - ⭐ Front-end / GUI Artist
-- ⭐ Building reusable MCP servers
-
+- ⭐ 
 
 
 </br>
 
 
 # 𝓜𝓪𝓲𝓷 𝓢𝓴𝓲𝓵𝓵𝓼 🛠 ~
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,react,git,mongodb,php,mysql,notion,nodejs,express,eclipse,java,spring,js,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,androidstudio,ps,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,js,py,r,php,egex,github,react,git,mongodb,mysql,notion,nodejs,express,eclipse,java,spring,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,androidstudio,ps,)](https://skillicons.dev)
 </br>
 
 
