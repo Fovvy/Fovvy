@@ -34,7 +34,7 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 
 
 # 𝓜𝓪𝓲𝓷 𝓢𝓴𝓲𝓵𝓵𝓼 🛠 ~
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,notion,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,ps,)](https://skillicons.dev)
 </br>
 
 
