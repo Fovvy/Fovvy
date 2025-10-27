@@ -79,7 +79,7 @@ most used social things ^~^</p>
 
 <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h1>
 <p align="center">
-<img src="https://i.pinimg.com/originals/42/fe/a7/42fea7a6f9bccaf3284119994021a0c9.gif" align="center" width="373.5px" height="250px">
+<img src="https://i.pinimg.com/originals/ba/a6/2a/baa62a9b25eb2d404865ff9f5d6fca10.gif" align="center" width="373.5px" height="250px">
 
 </p>
 <hr>
