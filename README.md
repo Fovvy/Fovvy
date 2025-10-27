@@ -4,7 +4,7 @@
 <div align="left">
 
  <div align="left">
-<img hight="150" width="800" alt="GIF" align="center" src="https://i.pinimg.com/originals/44/5f/0e/445f0e407e0a9e4a7ad9c0d666d67ab3.gif">
+<img hight="150" width="800" alt="GIF" align="center" src="https://i.pinimg.com/originals/6a/5e/d5/6a5ed5a1cc11f3d72d78e5526f0a8a39.gif">
 </div>
 
 </br>
@@ -15,7 +15,7 @@
 ### - I'm 𝓟𝓪𝓻𝓪𝓼𝓽𝓾𝓼 💫  
 A 22 year old - 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 enthusiast from Namibia 🇳🇦.
 I enjoy building my own tools and systems - crafting software that fits my workflow instead of relying on closed-source solutions. I believe in owning my stack, not just using it.
-<img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/c0/11/80/c0118077a58fc7ee1c384029ce9ba0e1.gif">
+<img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/44/5f/0e/445f0e407e0a9e4a7ad9c0d666d67ab3.gif">
 
 ### - Loves :
 - 🌱 Plants & Nature
@@ -79,7 +79,7 @@ most used social things ^~^</p>
 
 <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h1>
 <p align="center">
-<img src="https://i.pinimg.com/originals/ba/a6/2a/baa62a9b25eb2d404865ff9f5d6fca10.gif" align="center" width="373.5px" height="250px">
+<img src="https://i.pinimg.com/originals/c0/11/80/c0118077a58fc7ee1c384029ce9ba0e1.gif" align="center" width="373.5px" height="250px">
 
 </p>
 <hr>
