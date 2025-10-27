@@ -15,7 +15,7 @@
 ### - I'm 𝓟𝓪𝓻𝓪𝓼𝓽𝓾𝓼 💫  
 A 22 year old - 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 enthusiast from Namibia 🇳🇦.
 I enjoy building my own tools and systems - crafting software that fits my workflow instead of relying on closed-source solutions. I believe in owning my stack, not just using it.
-<img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/83/a6/49/83a649b79d7d612485622c6d1a763fd8.gif">
+<img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/c0/11/80/c0118077a58fc7ee1c384029ce9ba0e1.gif">
 
 ### - Loves :
 - 🌱 Plants & Nature
