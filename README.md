@@ -4,7 +4,7 @@
 <div align="left">
 
  <div align="left">
-<img hight="150" width="800" alt="GIF" align="center" src="https://i.pinimg.com/originals/98/e0/3c/98e03c50916371a1af9d34cd1ecfc3dc.gif">
+<img hight="150" width="800" alt="GIF" align="center" src="https://i.pinimg.com/originals/5f/be/16/5fbe1685b1f7d617361fdb63e0c94a7e.gif">
 </div>
 
 </br>
@@ -79,7 +79,7 @@ most used social things ^~^</p>
 
 <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h1>
 <p align="center">
-<img src="https://i.pinimg.com/originals/fb/c3/a5/fbc3a5e594121134f279c7e66205d854.gif" align="center" width="373.5px" height="250px">
+<img src="https://i.pinimg.com/originals/98/e0/3c/98e03c50916371a1af9d34cd1ecfc3dc.gif" align="center" width="373.5px" height="250px">
 
 </p>
 <hr>
