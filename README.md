@@ -1,9 +1,9 @@
  <center>
 <h1 align="center">~ 𝓚𝓸𝓷𝓲𝓬𝓱𝓲𝔀𝓪! 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
-<div align="left">
 
- <div align="left">
+
+ <div align="center">
 <img hight="80" width="800" alt="GIF" align="center" src="https://i.pinimg.com/originals/b9/08/86/b90886beff7a7664af28e02792674ce7.gif">
 </div>
 
