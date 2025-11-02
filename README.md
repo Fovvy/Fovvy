@@ -18,7 +18,7 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 <br><img hight="200" width="350" alt="GIF" align="right" src="https://i.pinimg.com/originals/ad/8d/26/ad8d26c67fb7a0aba2856646f89f5289.gif">
 
 ### - Loves :
-- 🌱 Plants & Nature
+- 🌱 Plants & Wildlife
 - 🎹 Playing the Piano (& osu! occasionally)
 - 🐸 Watching Anime
 
