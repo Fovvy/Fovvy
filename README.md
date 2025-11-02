@@ -33,7 +33,7 @@ I enjoy building my own tools and systems - crafting software that fits my workf
 
 
 # 𝓜𝓪𝓲𝓷 𝓢𝓴𝓲𝓵𝓵𝓼 🛠 ~
-[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,php,supabase,github,react,git,mongodb,mysql,notion,nodejs,postman,express,docker,java,typescript,arch,raspberrypi,cpp,cs,dotnet,html,css,bootstrap,androidstudio,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,php,supabase,github,react,git,mongodb,mysql,notion,nodejs,postman,eclipse,docker,go,typescript,arch,raspberrypi,cpp,cs,dotnet,html,css,bootstrap,androidstudio,linux,)](https://skillicons.dev)
 </br>
 
 
