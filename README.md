@@ -15,7 +15,7 @@
    
 <!-- Outer collapsible -->  
 <details>
-   <summary><b>✰ Take a closer look</b></summary>
+   <summary><b>✰ Unfold to Take a closer look</b></summary>
   
    <br>
    
