@@ -15,7 +15,7 @@
    
 <!-- Outer collapsible -->  
 <details>
-   <summary><b>✰ Reveal more!</b></summary>
+   <summary><b>✰ Click to Reveal more!</b></summary>
   
    <br>
    
