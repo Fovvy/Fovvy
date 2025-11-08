@@ -15,7 +15,7 @@
    
 <!-- Outer collapsible -->  
 <details>
-   <b>ׂ︾ Expand for more!</b>
+   <summary><b>ׂ︾ Expand for more!</b></summary>
   
    <br>
    
