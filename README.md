@@ -1,10 +1,7 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Fovvy</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 Hi! 𝙸'𝚖 Fovvy</h1>
 
 <!-- Contact and keys -->
-<p align="center">
-<a href="mailto:alicia@omg.lol" title="Email Address"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>@lissy93:matrix.org</code></a>
-</p>
 
 <!-- Socials -->
 <p align="center">
@@ -12,9 +9,8 @@
   <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://dev.to/lissy93" title="Dev.to - @Lissy93"><img src="https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/979052/alicia" title="StackOverflow - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
-  <a href="https://parastus.me" title="Personal Website - parast.us.me"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/parastus-n-244882279/" title="LinkedIn - P."><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://parastus.me" title="Personal Website - parastus.me"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
 
@@ -29,11 +25,11 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Fovvy" />
       
 <blockquote>
 
-I am a backend engineer based in Namibia. And I love building!
+I'm a backend engineer based in Namibia, And I love building!
   
 I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
@@ -41,7 +37,7 @@ I also enjoy attending hackathons and coding competitions, as it's a great oppor
 
 I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
 
-When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
+When I'm not at the keyboard, I like playing the piano, travelling and .
 
 </blockquote>
     
@@ -122,6 +118,33 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </details>
 
 
+<!-- Recent Activity -->
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+            
+<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
+
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/Lissy93/lissy93.github.io/pull/1) in [Lissy93/lissy93.github.io](https://github.com/Lissy93/lissy93.github.io)
+2. ❌ Closed PR [#6](https://github.com/Lissy93/framework-benchmarks/pull/6) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
+3. ❌ Closed PR [#7](https://github.com/Lissy93/framework-benchmarks/pull/7) in [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks)
+4. 💪 Opened PR [#1](https://github.com/Lissy93/stack-match/pull/1) in [Lissy93/stack-match](https://github.com/Lissy93/stack-match)
+5. 💪 Opened PR [#2](https://github.com/joe-sykes/crossword-companion/pull/2) in [joe-sykes/crossword-companion](https://github.com/joe-sykes/crossword-companion)
+6. 🗣 Commented on [#26](https://github.com/Lissy93/networking-toolbox/issues/26) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+7. ❌ Closed PR [#1933](https://github.com/Lissy93/dashy/pull/1933) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+8. ❌ Closed PR [#88](https://github.com/Lissy93/portainer-templates/pull/88) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+9. 🗣 Commented on [#88](https://github.com/Lissy93/portainer-templates/issues/88) in [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates)
+10. 💪 Opened PR [#25](https://github.com/Lissy93/networking-toolbox/pull/25) in [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox)
+<!--END_SECTION:activity-->
+
+➡️  **[More Activity](/RECENT-ACTIVITY.md)**
+
+----
+
+</p>
+</details>
+
 <!-- Snek -->   
 <p align="center">
 <a href="https://gitstar-ranking.com/Fovvy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
@@ -129,79 +152,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 </details>
 
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-    Fovvy
-
-/README.md
-t
-Fovvy
-Fovvy
-Update README.md
-800f19c
- · 
-2 minutes ago
-
-211 lines (158 loc) · 13.9 KB
-👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Fovvy
-
-alicia at omg dot lol │ FEDB 68F5 5C02 83A7 │ @lissy93:matrix.org
-
-↕️ Expand for more!
-
-👤 About
-
-Alicia Sykes
-
-    I am a backend engineer based in Namibia. And I love building!
-
-    I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
-
-    I also enjoy attending hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
-
-    I have a small homelab, which I'm using to learn more about system administration, and host my own services.
-
-    When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
-
-📰 Latest Blog Posts
-
-Alicia Sykes Blog
-
-🛠️ Tech Stack
-
-	
-	Vue.jsSvelteReactAstro
-AngularD3.js
-	TypeScriptJavaScriptDartPython
-JavaPHPRustGoNode.js
-	FlutterAndroidKotlinSwift
-	AzureHerokuNetlifyGoogle Cloud
-	DockerAnsibleCircleCI
-	SeleniumCypressJest
-	LinuxBashMarkdown
-	VimVS Code
-
-📊 Metrics
-
-General StatsCoding Habits
-
-
-⚡ Recent Activity
-
-Astro Dab
-
-
-<p align="center"><a href="https://010000010110110001101001011000110110100101100001.com/"><sup><sub>010000010110110001101001011000110110100101100001.com</sub></sup></a></p>
+<p align="center"><a href="https:parastus.me</sub></sup></a></p>
 
 <!--
 
@@ -209,7 +160,8 @@ Astro Dab
   <summary><b>PGP</b></summary>
     <p align="center">
 
-   
+ 
+  
   </p>
 </details>
 
