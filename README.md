@@ -28,7 +28,7 @@
       
 <blockquote>
 
-I'm a backend engineer based in Namibia, And I love tinkering/ricing Linux, Building Software with character, Applications & Open Source!
+I'm a backend engineer based in Namibia, And I love tinkering/ricing Linux (i use arch btw), Building Software with character & Open Source!
   
 I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
@@ -45,32 +45,6 @@ When I'm not at the keyboard, I like playing the piano, travelling and getting m
   </p>
 </details>
   
-  
-<!-- Blog Posts -->
-<details>
-  <summary><b>📰 Latest Blog Posts</b></summary>
-    <p>
-       
-<a href="https://notes.aliciasykes.com"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="Alicia Sykes Blog" /></a>
-      
-      
-<!-- BLOG-POST-LIST:START -->
-- [Astro is pretty cool 🆒](https://notes.aliciasykes.com/51203/astro-is-pretty-cool)
-- [My thoughts on Tailwind 🍃](https://notes.aliciasykes.com/49557/my-thoughts-on-tailwind)
-- [Project Ideas: Agile 💡](https://notes.aliciasykes.com/48239/project-ideas-agile)
-- [Trying out Solid.js 🍰](https://notes.aliciasykes.com/48068/trying-out-solid-js)
-- [50 ways to bring in extra cash as a developer  💰](https://notes.aliciasykes.com/47804/50-ways-to-bring-in-extra-cash-as-a-developer)
-- [SvelteKit 1.0 - Building a Blog that fetches from RSS 🦄](https://notes.aliciasykes.com/42764/sveltekit-1-0-building-a-blog-that-fetches-from-rss)
-- [20 Amazing Collections for Self-Taught Developers 🎓](https://notes.aliciasykes.com/42310/20-amazing-collections-for-self-taught-developers)
-- [CLI tools you can&#39;t live without 🔧](https://notes.aliciasykes.com/41983/cli-tools-you-can-t-live-without)
-<!-- BLOG-POST-LIST:END -->
-
-➡️  **[More Posts](/BLOG-POSTS.md)**
-
-----
-
-</p>
-</details>
 
 
 <!-- Tech Stack -->  
