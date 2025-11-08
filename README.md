@@ -33,7 +33,7 @@ I care a lot about privacy and security, and have carried out several audits and
 
 I also enjoy attending hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
 
-I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
+I have a small homelab, which I'm using to learn more about system administration, and host my own services & tools. 
 
 When I'm not at the keyboard, I like playing the piano, travelling and getting my hands in the soil 🌱.
 
