@@ -15,7 +15,7 @@
    
 <!-- Outer collapsible -->  
 <details>
-   <summary><b>✰ Unfold</b></summary>
+   <summary><b>✰ There’s more down here</b></summary>
   
    <br>
    
@@ -23,7 +23,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Fovvy" />
+      <img align="right" width="250" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Fovvy" />
       
 <blockquote>
 
