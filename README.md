@@ -8,7 +8,8 @@
    <kbd>
   <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://dev.to/fovvy" title="Dev.to - @fovvy"><img src="https://img.shields.io/badge/-fovvy-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/parastus-n-244882279/" title="LinkedIn - P."><img src="https://img.shields.io/badge/-P.-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>  <a href="https://parastus.me" title="Personal Website - parastus.me"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/parastus-n-244882279/" title="LinkedIn - P."><img src="https://img.shields.io/badge/-P.-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>  
+  <a href="https://parastus.me" title="Personal Website - parastus.me"><img src="https://img.shields.io/badge/-parastus.me-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
 
