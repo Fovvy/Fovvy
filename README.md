@@ -27,7 +27,7 @@
       
 <blockquote>
 
-I'm a backend engineer based in Namibia, And I love tinkering/ricing Linux (i use arch btw), Building Software with character & Open Source!
+I'm a Backend engineer based in Namibia, And I love tinkering/ricing Linux (i use arch btw), Building Software with character & Open Source!
   
 I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
