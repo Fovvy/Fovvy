@@ -29,7 +29,7 @@
       
 <blockquote>
 
-I'm a backend engineer based in Namibia, And I love building!
+I'm a backend engineer based in Namibia, And I love tinkering/ricing Linux, Building Software with character, Applications & Open Source!
   
 I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
@@ -37,7 +37,7 @@ I also enjoy attending hackathons and coding competitions, as it's a great oppor
 
 I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
 
-When I'm not at the keyboard, I like playing the piano, travelling and .
+When I'm not at the keyboard, I like playing the piano, travelling and getting my hands in the soil 🌱.
 
 </blockquote>
     
